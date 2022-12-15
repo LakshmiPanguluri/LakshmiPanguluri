@@ -4,9 +4,12 @@ useful links
 https://www.redhat.com/sysadmin/introduction-vi-editor
 # Open a file
 vi filename.txt
+# press i for insert mode
 #saving in insert mode
 ctrl+o :w Enter
 #Exit
 :q Enter(Exit)
 
 :wq Enter (save and exit)
+
+:q! (quit without saving)
