@@ -16,3 +16,6 @@ with open(f'rank1_{Date}.jsonl', 'w') as f:
         Body= json.dumps(data),
         Key=key
         )
+
+Body=bytes(json.dumps(data_issues, default=str).encode())
+
