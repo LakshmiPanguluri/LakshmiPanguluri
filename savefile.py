@@ -1,4 +1,4 @@
-"""saving documents to json line file"""
+#saving documents to json line file
 with open(f'rank1_{Date}.jsonl', 'w') as f:
     for docs in data:
         json.dump(docs, f)
