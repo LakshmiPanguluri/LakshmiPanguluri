@@ -7,6 +7,9 @@ vi filename.txt
 # press i for insert mode
 #saving in insert mode
 ctrl+o :w Enter
+
+To save a file, you must first be in Command mode. Press Esc to enter Command mode
+
 #Exit
 :q Enter(Exit)
 
