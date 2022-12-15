@@ -1,0 +1,3 @@
+#using vim
+saving in insert mode
+ctrl+O :w Enter
