@@ -1,3 +1,12 @@
 #using vim
-saving in insert mode
-ctrl+O :w Enter
+useful links
+
+https://www.redhat.com/sysadmin/introduction-vi-editor
+# Open a file
+vi filename.txt
+#saving in insert mode
+ctrl+o :w Enter
+#Exit
+:q Enter(Exit)
+
+:wq Enter (save and exit)
