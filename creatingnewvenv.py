@@ -6,3 +6,7 @@ which pip
 export PATH: location to conda/envs/langchain/bin:$PATH
 conda install jupyter 
 python -m ipykernel install --user --name=langchain
+
+
+#Install screen
+conda install -c conda-forge screen
